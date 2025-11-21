@@ -211,14 +211,6 @@ pnpm start
 4. Ensure all tests pass and linting is clean
 5. Submit a pull request
 
-## 📝 License
-
-[Add your license here]
-
 ## 👥 Team
 
-[Add team members or contributors]
-
-## 📞 Support
-
-For questions or issues, please [open an issue](link-to-issues) or contact [your-email].
+Durai
