@@ -1,0 +1,7 @@
+export function useAuth() {
+  const [user, setUser] = useState(null);
+  const [loading, setLoading] = useState(true);
+  
+  // Return authentication state and methods
+  return { user, loading, login, logout };
+}
